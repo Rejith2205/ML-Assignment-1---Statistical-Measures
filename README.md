@@ -129,7 +129,7 @@ Approach: This method removes values that lie beyond 1.5 times the Interquartile
 ![image](https://github.com/user-attachments/assets/2778f6fc-b130-4e09-8e16-3c90d7df14ff)
 ***Correlation Heat Map for all the  columns***
 ![image](https://github.com/user-attachments/assets/ef79bc1a-71cb-4d82-b7ab-00d01e0f8da7)
-***Correlation Heat Map without z-score & srqure root  columns***
+***Correlation Heat Map without z-score ***
 ![image](https://github.com/user-attachments/assets/4b78a86c-6075-48d2-a342-844c3b207583)
 ![image](https://github.com/user-attachments/assets/edc16e44-6deb-440a-b110-0d1f6492371d)
 ***The correlation coefficient ranges from -1 to 1. 1 indicates a perfect positive linear relationship. -1 indicates a perfect negative linear relationship. 0 indicates no linear relationship.***  
@@ -158,29 +158,7 @@ Approach: This method removes values that lie beyond 1.5 times the Interquartile
 ![image](https://github.com/user-attachments/assets/7db03ab8-303c-4004-9d68-9feec29c6be0)
 ![image](https://github.com/user-attachments/assets/70e77790-cbd2-4e10-bbcb-615607704904)
 ![image](https://github.com/user-attachments/assets/38efa413-29a1-4df1-862f-d919fe312d75)
-![image](https://github.com/user-attachments/assets/183a29ac-abf1-4054-86b0-3bec83ce91f5)
-![image](https://github.com/user-attachments/assets/e006323b-cc3f-4cf6-ba4c-e7ccf6451ab0)
-![image](https://github.com/user-attachments/assets/dfe0f566-5717-49eb-80c6-770a497a9416)
-![image](https://github.com/user-attachments/assets/34d00010-ceff-432d-b5ed-21e4ab161a36)
-![image](https://github.com/user-attachments/assets/cf58b297-3dc6-4911-9d81-14bc0832651d)
-![image](https://github.com/user-attachments/assets/10f39e72-5c45-46da-a2a5-d312bede120c)
-![image](https://github.com/user-attachments/assets/c867b251-08a3-4aa5-b369-7c9827477c2f)
-![image](https://github.com/user-attachments/assets/b05a9ac3-6e69-4dd2-9461-e79e8aca0fc6)
-![image](https://github.com/user-attachments/assets/9ef9c716-686c-43f1-b418-e27ae853dd6a)
-![image](https://github.com/user-attachments/assets/7feb5157-7d9f-4099-9ff2-ef4e3b3aedbe)
-![image](https://github.com/user-attachments/assets/9a77ab9a-9059-46d0-bf97-2398212e5e21)
-![image](https://github.com/user-attachments/assets/76ca822e-c951-4235-b48e-bb0b98a866f5)
-![image](https://github.com/user-attachments/assets/e36507d5-9c6b-4a25-9e13-5df57f80f094)
-![image](https://github.com/user-attachments/assets/af271f49-02c9-48a2-804c-61ed58027d13)
-![image](https://github.com/user-attachments/assets/e0bf1392-0bc9-4482-a679-74e68bdcc7fd)
-![image](https://github.com/user-attachments/assets/9939f6d0-6ea2-484e-b5df-97efda0fdea5)
-![image](https://github.com/user-attachments/assets/af2a0deb-b448-46e9-8b8a-5ccd719ee208)
-![image](https://github.com/user-attachments/assets/36a3aace-a265-40f6-bfae-f8ac775d87a6)
-![image](https://github.com/user-attachments/assets/9e32b899-a468-4e7f-bef8-039233f2b29e)
-![image](https://github.com/user-attachments/assets/0b19c5c9-edc5-4158-8b36-6df90f111f27)
-![image](https://github.com/user-attachments/assets/f2c1d94f-b817-4140-a326-fb3c1b7ed95f)
-![image](https://github.com/user-attachments/assets/f44712a0-545e-4f77-8e59-90a29b32f5c6)
-![image](https://github.com/user-attachments/assets/87675aef-ce97-49b0-8349-579aa76d7913)
+
 ***The scatter plot matrix provides an extensive visual representation of the relationships among various property features. Key insights include several important correlations:***
 
 ***Strong Correlation: There is a strong positive correlation between total square footage and price, indicating that larger properties tend to be more expensive. This relationship aligns with expectations, as larger spaces typically provide more living area and command higher prices.***
