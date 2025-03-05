@@ -158,6 +158,32 @@ Approach: This method removes values that lie beyond 1.5 times the Interquartile
 ![image](https://github.com/user-attachments/assets/7db03ab8-303c-4004-9d68-9feec29c6be0)
 ![image](https://github.com/user-attachments/assets/70e77790-cbd2-4e10-bbcb-615607704904)
 ![image](https://github.com/user-attachments/assets/38efa413-29a1-4df1-862f-d919fe312d75)
+![image](https://github.com/user-attachments/assets/57c09be3-a3c5-4f50-8379-e881f7b6c402)
+![image](https://github.com/user-attachments/assets/6f14451b-8a57-4e1f-8e78-646a08acf4f1)
+![image](https://github.com/user-attachments/assets/71a24998-94c9-4167-af8b-e0fbb85cca44)
+![image](https://github.com/user-attachments/assets/0726f1a0-ac19-4a43-bef5-e40f162a6058)
+![image](https://github.com/user-attachments/assets/49824a5c-6357-4f34-b695-1e39eeb155e0)
+![image](https://github.com/user-attachments/assets/5d85e223-29ec-4ad8-8fd3-5254e25d86ba)
+![image](https://github.com/user-attachments/assets/7b34d222-2b9d-4d5e-bc07-14a29d0aa805)
+![image](https://github.com/user-attachments/assets/049574f6-73a6-477d-98a3-99955db157a6)
+![image](https://github.com/user-attachments/assets/13a659f7-59a6-49e1-9b2d-14e5699ac79e)
+![image](https://github.com/user-attachments/assets/29bc6bd3-06ef-4303-bfa4-6cf88cd2f218)
+![image](https://github.com/user-attachments/assets/90987830-359e-40bc-a2ec-505d3602be9b)
+![image](https://github.com/user-attachments/assets/775f21fb-5882-4c26-b95a-885f57e9467c)
+![image](https://github.com/user-attachments/assets/2b6f0c55-2352-47ff-b7cd-90c0a3b55bdb)
+![image](https://github.com/user-attachments/assets/37859a7b-20ce-4b5b-b2b6-31c951172a2b)
+![image](https://github.com/user-attachments/assets/4831e598-960e-418d-b326-1492dc22f015)
+![image](https://github.com/user-attachments/assets/7f94424d-aaab-4295-856f-7848ddbb15a3)
+![image](https://github.com/user-attachments/assets/a5e8c6dc-c06e-4175-8905-9cf5d0305feb)
+![image](https://github.com/user-attachments/assets/31e9515b-4394-419c-9eaf-96946b6fa84f)
+![image](https://github.com/user-attachments/assets/02bb7d5e-edde-4527-8ffb-45b4fda6c9f5)
+![image](https://github.com/user-attachments/assets/f9597fa7-33ee-4f3a-8753-1c0b2565e9fb)
+![image](https://github.com/user-attachments/assets/2b19ce6a-0d7e-4f7a-bdde-aaf9dbd2f340)
+![image](https://github.com/user-attachments/assets/ab6384fb-16c5-4f12-b8d0-17cd980ab433)
+![image](https://github.com/user-attachments/assets/a3d657ad-4e2a-4323-afbb-e26e26eb25c8)
+
+
+
 
 ***The scatter plot matrix provides an extensive visual representation of the relationships among various property features. Key insights include several important correlations:***
 
